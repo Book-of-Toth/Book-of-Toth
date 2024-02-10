@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Book-of-Toth!
-- A passionate developer with expertise in HTML, CSS, Python, and Django.
-- My journey in web development began with a curiosity to craft visually appealing and functional websites, and it has since evolved into a deep-seated love for creating robust, efficient and functional web applications.
+  A passionate developer with expertise in HTML, CSS, Python, and Django.
+  My journey in web development began with a curiosity to craft visually appealing and functional websites, and it has since evolved into a deep-seated love for creating robust, efficient and functional web applications.
 
 - 👀 I’m interested in Exploring innovative ways to blend design and functionality in web development.
   I thrive on challenges that push the boundaries of what's possible on the web.
